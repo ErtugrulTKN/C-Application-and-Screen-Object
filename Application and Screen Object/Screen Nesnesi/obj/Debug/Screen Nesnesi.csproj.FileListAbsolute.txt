@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\bin\Debug\Screen Nesnesi.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\bin\Debug\Screen Nesnesi.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\bin\Debug\Screen Nesnesi.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen_Nesnesi.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen_Nesnesi.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.pdb
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\bin\Debug\Screen Nesnesi.exe.config
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\bin\Debug\Screen Nesnesi.exe
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\bin\Debug\Screen Nesnesi.pdb
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen_Nesnesi.Form1.resources
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen_Nesnesi.Properties.Resources.resources
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.exe
+C:\Users\musta\OneDrive\Desktop\Görsel Programlama 2\6-Screen Nesnesi\obj\Debug\Screen Nesnesi.pdb
